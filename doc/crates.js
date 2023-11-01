@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["nanopub_rs","nanopub_rs_py"];

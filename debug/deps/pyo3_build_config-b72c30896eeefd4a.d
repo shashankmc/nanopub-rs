@@ -1,0 +1,13 @@
+/home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/deps/pyo3_build_config-b72c30896eeefd4a.rmeta: /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/errors.rs /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/impl_.rs /home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config-file.txt /home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config.txt
+
+/home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/deps/libpyo3_build_config-b72c30896eeefd4a.rlib: /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/errors.rs /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/impl_.rs /home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config-file.txt /home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config.txt
+
+/home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/deps/pyo3_build_config-b72c30896eeefd4a.d: /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/errors.rs /home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/impl_.rs /home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config-file.txt /home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config.txt
+
+/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/lib.rs:
+/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/errors.rs:
+/home/runner/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.17.3/src/impl_.rs:
+/home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config-file.txt:
+/home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/home/runner/work/nanopub-rs/nanopub-rs/target/doc/debug/build/pyo3-build-config-93fc503c339625bb/out
